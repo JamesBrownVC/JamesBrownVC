@@ -1,6 +1,6 @@
 # About me <br>
-Currently working on Chain Pilot <br>
-Also into quant finance (ML and optimization) and it's applications to discrete finance (VC, PE) <br>
+Currently working on **Chain Pilot** <br>
+Also into **quant finance** (ML and optimization) and it's applications to discrete finance **(VC, PE)** <br>
 Reach me on LinkedIn !
 <!--
 **JamesBrownVC/JamesBrownVC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
